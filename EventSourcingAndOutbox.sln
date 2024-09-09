@@ -9,7 +9,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{07C969EE-200
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{B7FBFBCC-9B5B-4298-B566-3396F840F0DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcingAndOutbox.Tests", "tests\EventSourcingAndOutbox.Tests\EventSourcingAndOutbox.Tests.csproj", "{355BA3D2-01DB-496C-B324-3EDAA60E9611}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventSourcingAndOutbox.Tests", "tests\EventSourcingAndOutbox.Tests\EventSourcingAndOutbox.Tests.csproj", "{355BA3D2-01DB-496C-B324-3EDAA60E9611}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{33E375F8-AAEE-41F9-B782-A3AB0E913F09}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

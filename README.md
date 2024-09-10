@@ -39,7 +39,7 @@ The project is structured to simulate a real-world distributed system with the f
 
     ```bash
     git clone https://github.com/muscankaraoglu/event-source-and-outbox-pattern
-    cd event-sourcing-outbox-pattern
+    cd event-source-and-outbox-pattern
     ```
 
 2. Restore the dependencies:

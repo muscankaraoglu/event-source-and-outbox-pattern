@@ -38,7 +38,7 @@ The project is structured to simulate a real-world distributed system with the f
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/event-sourcing-outbox-pattern.git
+    git clone https://github.com/muscankaraoglu/event-source-and-outbox-pattern
     cd event-sourcing-outbox-pattern
     ```
 

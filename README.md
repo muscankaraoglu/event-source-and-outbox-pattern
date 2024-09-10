@@ -31,15 +31,15 @@ The project is structured to simulate a real-world distributed system with the f
 
 ### Prerequisites
 
-- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 
 ### Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/event-sourcing-outbox-pattern.git
-    cd event-sourcing-outbox-pattern
+    git clone https://github.com/muscankaraoglu/event-source-and-outbox-pattern
+    cd event-source-and-outbox-pattern
     ```
 
 2. Restore the dependencies:

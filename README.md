@@ -8,10 +8,6 @@ This project demonstrates the implementation of Event Sourcing and the Outbox Pa
 - [Architecture](#architecture)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Unit Testing](#unit-testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
